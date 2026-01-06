@@ -1,0 +1,14 @@
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\bin\Debug\net10.0\Aula01_SintaxeBasica.exe
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\bin\Debug\net10.0\Aula01_SintaxeBasica.deps.json
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\bin\Debug\net10.0\Aula01_SintaxeBasica.runtimeconfig.json
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\bin\Debug\net10.0\Aula01_SintaxeBasica.dll
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\bin\Debug\net10.0\Aula01_SintaxeBasica.pdb
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\obj\Debug\net10.0\Aula01_SintaxeBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\obj\Debug\net10.0\Aula01_SintaxeBasica.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\obj\Debug\net10.0\Aula01_SintaxeBasica.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\obj\Debug\net10.0\Aula01_SintaxeBasica.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\obj\Debug\net10.0\Aula01_SintaxeBasica.dll
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\obj\Debug\net10.0\refint\Aula01_SintaxeBasica.dll
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\obj\Debug\net10.0\Aula01_SintaxeBasica.pdb
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\obj\Debug\net10.0\Aula01_SintaxeBasica.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula01_SintaxeBasica\obj\Debug\net10.0\ref\Aula01_SintaxeBasica.dll
