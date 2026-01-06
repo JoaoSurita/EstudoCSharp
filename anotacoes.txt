@@ -1,0 +1,1 @@
+Para criar um projeto, é necessário escrever "dotnet new console -n NomeDoProjeto" no console. Sendo assim, criando a Pasta do projeto com todas suas dependências.

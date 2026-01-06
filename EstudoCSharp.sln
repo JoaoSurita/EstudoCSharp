@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula01_SintaxeBasica", "Aula01_SintaxeBasica\Aula01_SintaxeBasica.csproj", "{32B9FA1F-A8A9-0248-CEB0-F79EE195BA7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula02_Variaveis", "Aula02_Variaveis\Aula02_Variaveis.csproj", "{2FBD1A71-4818-D29B-D7BB-4443D5F08E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B9FA1F-A8A9-0248-CEB0-F79EE195BA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B9FA1F-A8A9-0248-CEB0-F79EE195BA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B9FA1F-A8A9-0248-CEB0-F79EE195BA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B9FA1F-A8A9-0248-CEB0-F79EE195BA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBD1A71-4818-D29B-D7BB-4443D5F08E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBD1A71-4818-D29B-D7BB-4443D5F08E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBD1A71-4818-D29B-D7BB-4443D5F08E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBD1A71-4818-D29B-D7BB-4443D5F08E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC01D92C-87C1-4B3D-AB1A-AC642E45BEAD}
+	EndGlobalSection
+EndGlobal

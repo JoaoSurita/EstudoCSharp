@@ -7,3 +7,5 @@ public class Program
         Console.WriteLine("Hello World");
     }
 }
+
+// Essa será a sintaxe para qualquer Projeto em C#
