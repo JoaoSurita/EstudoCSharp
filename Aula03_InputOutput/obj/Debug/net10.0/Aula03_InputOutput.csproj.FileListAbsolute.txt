@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\bin\Debug\net10.0\Aula03_InputOutput.exe
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\bin\Debug\net10.0\Aula03_InputOutput.deps.json
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\bin\Debug\net10.0\Aula03_InputOutput.runtimeconfig.json
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\bin\Debug\net10.0\Aula03_InputOutput.dll
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\bin\Debug\net10.0\Aula03_InputOutput.pdb
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\obj\Debug\net10.0\Aula03_InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\obj\Debug\net10.0\Aula03_InputOutput.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\obj\Debug\net10.0\Aula03_InputOutput.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\obj\Debug\net10.0\Aula03_InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\obj\Debug\net10.0\Aula03_InputOutput.sourcelink.json
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\obj\Debug\net10.0\Aula03_InputOutput.dll
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\obj\Debug\net10.0\refint\Aula03_InputOutput.dll
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\obj\Debug\net10.0\Aula03_InputOutput.pdb
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\obj\Debug\net10.0\Aula03_InputOutput.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula03_InputOutput\obj\Debug\net10.0\ref\Aula03_InputOutput.dll
