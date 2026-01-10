@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\bin\Debug\net10.0\Aula04_OperadoresAritmeticos.exe
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\bin\Debug\net10.0\Aula04_OperadoresAritmeticos.deps.json
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\bin\Debug\net10.0\Aula04_OperadoresAritmeticos.runtimeconfig.json
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\bin\Debug\net10.0\Aula04_OperadoresAritmeticos.dll
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\bin\Debug\net10.0\Aula04_OperadoresAritmeticos.pdb
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\obj\Debug\net10.0\Aula04_OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\obj\Debug\net10.0\Aula04_OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\obj\Debug\net10.0\Aula04_OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\obj\Debug\net10.0\Aula04_OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\obj\Debug\net10.0\Aula04_OperadoresAritmeticos.sourcelink.json
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\obj\Debug\net10.0\Aula04_OperadoresAritmeticos.dll
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\obj\Debug\net10.0\refint\Aula04_OperadoresAritmeticos.dll
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\obj\Debug\net10.0\Aula04_OperadoresAritmeticos.pdb
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\obj\Debug\net10.0\Aula04_OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula04_OperadoresAritmeticos\obj\Debug\net10.0\ref\Aula04_OperadoresAritmeticos.dll

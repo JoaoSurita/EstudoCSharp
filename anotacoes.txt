@@ -1,1 +1,3 @@
 Para criar um projeto, é necessário escrever "dotnet new console -n NomeDoProjeto" no console. Sendo assim, criando a Pasta do projeto com todas suas dependências.
+
+Para atualizar o sln, é necessário escrever "dotnet sln add NomeDoProjeto/NomeDoProjeto.csproj".
