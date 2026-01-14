@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\bin\Debug\net10.0\Aula05_IfElse.exe
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\bin\Debug\net10.0\Aula05_IfElse.deps.json
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\bin\Debug\net10.0\Aula05_IfElse.runtimeconfig.json
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\bin\Debug\net10.0\Aula05_IfElse.dll
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\bin\Debug\net10.0\Aula05_IfElse.pdb
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\obj\Debug\net10.0\Aula05_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\obj\Debug\net10.0\Aula05_IfElse.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\obj\Debug\net10.0\Aula05_IfElse.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\obj\Debug\net10.0\Aula05_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\obj\Debug\net10.0\Aula05_IfElse.sourcelink.json
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\obj\Debug\net10.0\Aula05_IfElse.dll
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\obj\Debug\net10.0\refint\Aula05_IfElse.dll
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\obj\Debug\net10.0\Aula05_IfElse.pdb
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\obj\Debug\net10.0\Aula05_IfElse.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\EstudoCSharp\Aula05_IfElse\obj\Debug\net10.0\ref\Aula05_IfElse.dll
